@@ -1,5 +1,7 @@
-# Web-Scraping
-**1. Build Hotel Database Using Web Scrapping (in Python)** <br>
+
+# Build Hotel Database Using Web Scrapping
+
+## Hotel Pricing Estimation Database
   In this project, I scraped the listings on booking.com from March 20 to March 25, for three different popular vacation locations in California – San Diego, Los Angeles, and Yosemite National Park. Below are five processes to complete the task. <br>
   
   Firstly, I used Selenium to open a browser and manually navigate to booking.com. By doing so, I found that booking.com is not actively detecting Selenium and hence it is a good target for web scrapping. <br>
